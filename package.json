@@ -1,0 +1,24 @@
+{
+  "name": "vitest-module-resolution",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "test": "node --expose-gc ./node_modules/.bin/vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grigorii-merck/vitest-module-resolution.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grigorii-merck/vitest-module-resolution/issues"
+  },
+  "homepage": "https://github.com/grigorii-merck/vitest-module-resolution#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4",
+    "vitest": "^0.23.4"
+  }
+}
